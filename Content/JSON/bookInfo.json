@@ -1,0 +1,27 @@
+[
+	{
+		"title": "버스",
+		"img" : "Content/PNG/대중교통/bus.png",
+		"info" : "가성비 no1. 버스"
+	},
+	{
+		"title": "지하철",
+		"img" : "Content/PNG/대중교통/지하철.png",
+		"info" : "speed no1. 지하철"
+	},
+	{
+		"title": "택시",
+		"img" : "Content/PNG/대중교통/taxi.png",
+		"info" : "flex no1.택시"
+	},
+	{
+		"title": "자전거",
+		"img" : "Content/PNG/대중교통/bicycle.png",
+		"info" : "서울은 따릉이 대전은 타슈"
+	},
+	{
+		"title": "걷기",
+		"img" : "Content/PNG/대중교통/walking.png",
+		"info" : "운동 no1.걷기"
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"type" : "background",
+		"img" : "Content/PNG/Home/room2.jpg"
+	},
+	{
+		"type" : "Narration",
+		"content" : "집에 먹을게 없어 힘이 없는 솜솜...",
+		"img" : "Content/PNG/솜솜이/배고픈솜솜.jpg"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "솜솜이",
+		"img" : "Content/PNG/솜솜이/배고픈솜솜.jpg",
+		"content" : "                 아 배고파.. 뭐 먹을게 없나?"
+	},
+	{
+		"type" : "background",
+		"img" : "Content/PNG/Home/kitchen.jpg"
+	},
+	{
+		"type" : "Narration",
+		"content" : "냉장고를 열어봤지만 역시나 먹을 건 없고"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "솜솜이",
+		"img" : "Content/PNG/솜솜이/호빵맨솜2.jpg",
+		"content" : "           나라도 떼어 먹을까.. 냠"
+
+	},
+	{
+		"type" : "Narration",
+		"content" : "배고파서 돌아버린 솜.."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "솜솜이",
+		"img" : "Content/PNG/솜솜이/절레절레.jpg",
+		"content" : "                                                미쳤네 미쳤어..더 이상해지기 전에 뭐라도 사오자..!"
+
+	},
+	{
+		"type" : "Narration",
+		"content" : "그렇게 마트로 가기로 결정한 솜솜",
+		"img" : "Content/PNG/솜솜이/나가려는2.jpg"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "신난솜솜이",
+		"img" : "Content/PNG/솜솜이/신난솜솜.jpg",
+		"content" : "                       뭐 사먹지? 신난다,, 룰루랄ㄹ라"
+	},
+	{
+		"type" : "Narration",
+		"content" : "기쁨도 잠시 솜솜이가 가진 거라곤 단 돈 10000원 뿐..심란쓰",
+		"img" : "Content/PNG/솜솜이/돈솜솜2.jpg"
+	},
+	{
+		"type" : "background",
+		"img" : "Content/PNG/Home/night.jpg"
+	},
+	{
+		"type" : "Narration",
+		"content" : "일단 도로로 나온 솜솜"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "솜솜이",
+		"img" : "Content/PNG/솜솜이/우는솜솜3.jpg",
+		"content" : "뭐 타고 가지?"
+
+	}
+]
